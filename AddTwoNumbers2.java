@@ -34,6 +34,12 @@ It is guaranteed that the list represents a number that does not have leading ze
 */
 
 public class AddTwoNumbers2{
+    public static void main(String[] args) {
+        ListNode  a = new ListNode();
+        if (a != null) {
+            System.out.println("not null");
+        }
+    }
     
 }
 
