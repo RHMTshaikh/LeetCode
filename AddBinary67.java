@@ -23,7 +23,6 @@ Constraints:
 a and b consist only of '0' or '1' characters.
 Each string does not contain leading zeros except for the zero itself.
  */
-
 public class AddBinary67{
     public static void main(String[] args) {
         AddBinary67 z = new AddBinary67();
